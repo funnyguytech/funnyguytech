@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Funny Guy Tech Solutions ##
 
-You can use the [editor on GitHub](https://github.com/funnyguytech/funnyguytech.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Phone number:** <a href="tel:+17744690480">774-469-0480</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Founded by a former Apple employee, Funny Guy Tech Solutions is here for your technology needs. Whether it's Windows, Mac, iPhone, Android, or anything else, we're here.  We offer several solutions to your technology needs including but not limited to:
 
-### Markdown
+* Virus removal
+* Data transfer
+* Software and hardware installation
+* Software and hardware troubleshooting
+* Internet/Wi-Fi troubleshooting
+* Computer building
+* Communicating with larger companies for you
+* Recommending the right solutions for your needs
+* And much more
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our services are offered in eastern Massachusetts. We can come to you, do pick up, Zoom calls, or phone calls. Call or text us at 774-469-0480 for more information or fill out the contact form below. Currently, we are charging $100 an hour for our services.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/funnyguytech/funnyguytech.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Funny Guy Tech Solutions is not associated in any way with Apple Inc., Microsoft Inc., Alphabet Inc., or any other company.*

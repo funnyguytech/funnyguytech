@@ -1,0 +1,20 @@
+_site/
+
+# Only applicable for GitHub Pages, which updates its gems regardless of our lockfile
+Gemfile.lock
+
+~*
+*~
+*.bak
+*.undo
+*.tmp
+*.old
+bak/
+undo/
+tmp/
+old/
+
+[Tt]humbs.db
+[Dd]esktop.ini
+._*
+__MACOSX/

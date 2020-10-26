@@ -47,9 +47,11 @@
         {% if page.credits %}
         <div class="site-footer-credits">{{ page.credits }}</div>
         {% endif %}
-        <div class="site-footer-credits">
+        {% if site.quantcast or site.google_analytics %}
+        <div class="site-footer-privacy" id="privacy">
           This website uses Google Analytics and Quantcast.  These services have privacy policies that affect you if you use this website.  For more information, see <a href="https://policies.google.com/technologies/partner-sites">Google's privacy policy</a> and <a href="https://www.quantcast.com/privacy/">Quantcast's privacy policy</a>.  Additionally, this website is intended for residents of Massachusetts, United States, and is not targeted at residents of the European Union or California.
         </div>
+        {% endif %}
       </footer>
     </main>
 

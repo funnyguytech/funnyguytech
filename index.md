@@ -1,6 +1,9 @@
-## Funny Guy Tech Solutions ##
+---
+---
 
-**Phone number:** <a href="tel:+17744690480">774-469-0480</a>
+## {{ site.title }} ##
+
+**Phone number:** [{{ site.phone_number.friendly}}]({{ site.phone_number.link}})
 
 Founded by a former Apple employee, Funny Guy Tech Solutions is here for your technology needs. Whether it's Windows, Mac, iPhone, Android, or anything else, we're here.  We offer several solutions to your technology needs including but not limited to:
 

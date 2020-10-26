@@ -1,7 +1,8 @@
 ---
+credits: "Funny Guy Tech Solutions is not associated in any way with Apple Inc., Microsoft Inc., Alphabet Inc., or any other company."
 ---
 
-## Funny Guy Tech Solutions ##
+## Funny Guy Tech Solutions
 
 **Phone number:** [{{ site.phone_number.friendly }}]({{ site.phone_number.link }})
 

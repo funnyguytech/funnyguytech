@@ -1,7 +1,9 @@
 theme: "jekyll-theme-cayman"
 title: "Funny Guy Tech Solutions"
 description: "Founded by a former Apple employee, Funny Guy Tech Solutions is here for your technology needs. Whether it's Windows, Mac, iPhone, Android, or anything else, we're here."
-show_downloads: false
 phone_number:
   link: "tel:+17744690480"
   friendly: "774-469-0480"
+
+google_analytics: "G-ESZCXL16NS"
+quantcast: "p-_k-QH_0HR9Lem"

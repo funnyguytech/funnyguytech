@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <meta charset="UTF-8">
+
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -10,7 +12,16 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
-    <meta charset="UTF-8">
+
+    {% if site.quantcast.pcode %}
+      <script async src="https://secure.quantserve.com/quant.js"></script>
+      <script>
+        var _qevents = _qevents || [];
+        _qevents.push({
+          qacct: "{{ site.quantcast }}"
+        });
+      </script>
+    {% endif %}
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,11 +43,22 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      {% if page.credits %}
       <footer class="site-footer">
-        <span class="site-footer-credits">{{ page.credits }}</span>
+        {% if page.credits %}
+        <div class="site-footer-credits">{{ page.credits }}</div>
+        {% endif %}
+        <div class="site-footer-credits">
+          This website uses Google Analytics and Quantcast.  These services have privacy policies that affect you if you use this website.  For more information, see <a href="https://policies.google.com/technologies/partner-sites">Google's privacy policy</a> and <a href="https://www.quantcast.com/privacy/">Quantcast's privacy policy</a>.  Additionally, this website is intended for residents of Massachusetts, United States, and is not targeted at residents of the European Union or California.
+        </div>
       </footer>
-      {% endif %}
     </main>
+
+    {% if site.quantcast %}
+    <noscript>
+      <div style="display:none">
+        <img src="//pixel.quantserve.com/pixel/{{ site.quantcast }}.gif" style="border: 0 none" height="1" width="1" alt="Quantcast" />
+      </div>
+    </noscript>
+    {% endif %}
   </body>
 </html>

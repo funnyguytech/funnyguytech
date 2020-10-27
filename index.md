@@ -18,4 +18,4 @@ Founded by a former Apple employee, Funny Guy Tech Solutions is here for your te
 * Recommending the right solutions for your needs
 * And much more
 
-Our services are offered in eastern Massachusetts. We can come to you, do pick up, Zoom calls, or phone calls. Call or text us at {{ site.phone_number.friendly }} for more information or fill out the contact form below. Currently, we are charging $100 an hour for our services.
+Our services are offered in eastern Massachusetts. We can come to you, do pick up, Zoom calls, or phone calls. Call or text us for free at {{ site.phone_number.friendly }} for more information or fill out the contact form below. There are currently no consulting fees. Jobs are charged hourly.

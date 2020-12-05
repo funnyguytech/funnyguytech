@@ -4,7 +4,8 @@ credits: "Funny Guy Tech Solutions is not associated in any way with Apple Inc.,
 
 ## Funny Guy Tech Solutions
 
-**Phone number:** [{{ site.phone_number.friendly }}]({{ site.phone_number.link }})
+**Phone number:** [{{ site.phone_number.friendly }}]({{ site.phone_number.link }})  
+**Email address:** [{{ site.email.friendly }}]({{ site.email.link }})
 
 Founded by a former Apple employee, Funny Guy Tech Solutions is here for your technology needs. Whether it's Windows, Mac, iPhone, Android, or anything else, we're here.  We offer several solutions to your technology needs including but not limited to:
 

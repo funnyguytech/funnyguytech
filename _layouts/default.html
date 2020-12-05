@@ -27,6 +27,9 @@
       {% if site.phone_number.link %}
         <a href="{{ site.phone_number.link }}" class="btn">Call: {{ site.phone_number.friendly }}</a>
       {% endif %}
+      {% if site.email.link %}
+        <a href="{{ site.email.link }}" class="btn">Email: {{ site.email.friendly }}</a>
+      {% endif %}
     </header>
     {% endunless %}
 

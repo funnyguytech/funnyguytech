@@ -4,6 +4,9 @@ description: "Founded by a former Apple employee, Funny Guy Tech Solutions is he
 phone_number:
   link: "tel:+17744690480"
   friendly: "774-469-0480"
+email:
+  link: "mailto:funnyguytechsolutions@gmail.com?subject=Tech%20Support%20Request%20%28from%20website%29"
+  friendly: "funnyguytechsolutions@gmail.com"
 
 google_analytics: "G-ESZCXL16NS"
 quantcast: "p-_k-QH_0HR9Lem"
